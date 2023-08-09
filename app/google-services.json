@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148472999808",
+    "project_id": "mobile-26105",
+    "storage_bucket": "mobile-26105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148472999808:android:4d693c413185cf047edb65",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan8mobiletrainingfave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148472999808-vo9ptuvuj3t92spdko9c3chv5c5h9ug3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOUTpkIt1yMBn2pPzQPh8MhxhxXVdrBPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148472999808-vo9ptuvuj3t92spdko9c3chv5c5h9ug3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
